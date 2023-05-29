@@ -36,7 +36,3 @@ Make sure to invite the bot to your server using the OAuth2 URL generated in the
 ## Contributions
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
